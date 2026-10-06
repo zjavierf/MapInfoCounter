@@ -31,5 +31,5 @@ You can customize what information is shown on the counter through the in-game c
 
 ## Requirements
 
-* [Counters+](https://github.com/Caeden117/CountersPlus)
+* [Counters+](https://github.com/NuggoDEV/CountersPlus)
 * [SongDetailsCache](https://github.com/kinsi55/BeatSaber_SongDetailsCache)
