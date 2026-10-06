@@ -9,7 +9,8 @@ Built for 1.40.8, may work for other versions
 <table>
   <tr>
     <td align="center"><img width="415" alt="MapInfoCounter Preview" src="https://github.com/user-attachments/assets/2bd37369-f1ac-4ecb-9494-ce3881a0674c" /></td>
-    <td align="center"><img width="415" alt="Settings Preview" src="https://github.com/user-attachments/assets/3f373f65-0847-4bc1-aee0-88fce93f05e1" /></td>
+    <td align="center"><img width="358" height="193" alt="image" src="https://github.com/user-attachments/assets/efdabbff-cfd8-4b02-80b3-938a2180a5d6"/></td>
+</td>
   </tr>
 </table>
 
