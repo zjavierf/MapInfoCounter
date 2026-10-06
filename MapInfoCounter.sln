@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapInfoCounter", "MapInfoCounter\MapInfoCounter.csproj", "{3ECD769B-70F5-46AB-8420-0D118E0FAF35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECD769B-70F5-46AB-8420-0D118E0FAF35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECD769B-70F5-46AB-8420-0D118E0FAF35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECD769B-70F5-46AB-8420-0D118E0FAF35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECD769B-70F5-46AB-8420-0D118E0FAF35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "MapInfoCounter",
+  "name": "MapInfoCounter",
+  "author": "zjavierf",
+  "version": "1.0.0",
+  "description": "Displays map info in-game.",
+  "gameVersion": "1.40.8",
+  "dependsOn": {
+    "BSIPA": "^4.2.0",
+    "Counters+": "^2.3.3",
+    "BeatSaberMarkupLanguage": "^1.6.10",
+    "SiraUtil": "^3.1.2"
+  },
+  "features": {
+    "CountersPlus.CustomCounter": {
+      "Name": "Map Info Counter",
+      "Description": "Displays map info, difficulties, and star ratings.",
+      "CounterLocation": "MapInfoCounter.Counter.MapInfoCounterDisplay",
+      "MultiplayerReady": true,
+      "ConfigDefaults": {
+        "Enabled": true,
+        "Position": "AboveHighway",
+        "Distance": 2
+      },
+      "BSML": {
+        "Resource": "MapInfoCounter.Views.settings.bsml",
+        "Host": "MapInfoCounter.Views.SettingsController",
+        "Icon": "MapInfoCounter.Views.icon.png"
+      }
+    }
+  },
+  "loadAfter": [
+    "Counters+",
+    "BeatSaberMarkupLanguage"
+  ]
+}

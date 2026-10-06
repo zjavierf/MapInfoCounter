@@ -1,0 +1,7 @@
+﻿<vertical spacing='1' horizontal-fit='PreferredSize' vertical-fit='PreferredSize'>
+    <bool-setting text="Show Song Name" value="showSongNameValue" apply-on-change="true"/>
+    <bool-setting text="Show Cover Art" value="showCoverArtValue" apply-on-change="true"/>
+    <bool-setting text="Show Stars" value="showStarsValue" apply-on-change="true"/>
+    <bool-setting text="Show BeatLeader Stars" value="showBeatLeaderStarsValue" apply-on-change="true"/>
+    <bool-setting text="Show ScoreSaber Stars" value="showScoresaberStarsValue" apply-on-change="true"/>
+</vertical>
