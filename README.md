@@ -2,6 +2,8 @@
 
 A lightweight and clean **Counters+** custom counter for Beat Saber that displays live map info, difficulty labels, star ratings (BeatLeader & ScoreSaber).
 
+<small>Built for 1.40.8, may work for other versions</small>
+
 ## Preview
 
 <img width="415" height="216" alt="MapInfoCounter Preview" src="https://github.com/user-attachments/assets/2bd37369-f1ac-4ecb-9494-ce3881a0674c" />
