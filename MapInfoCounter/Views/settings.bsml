@@ -1,7 +1,16 @@
-﻿<vertical spacing='1' horizontal-fit='PreferredSize' vertical-fit='PreferredSize'>
+﻿<vertical spacing='1' horizontal-fit='PreferredSize' vertical-fit='PreferredSize' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://monkeymanboy.github.io/BSML-Docs/BSMLSchema.xsd">
     <bool-setting text="Show Song Name" value="showSongNameValue" apply-on-change="true"/>
     <bool-setting text="Show Cover Art" value="showCoverArtValue" apply-on-change="true"/>
+    <list-setting text="Cover Art Style" value="coverArtStyleValue" options="coverArtStyleValues" apply-on-change="true"/>
     <bool-setting text="Show Stars" value="showStarsValue" apply-on-change="true"/>
     <bool-setting text="Show BeatLeader Stars" value="showBeatLeaderStarsValue" apply-on-change="true"/>
     <bool-setting text="Show ScoreSaber Stars" value="showScoresaberStarsValue" apply-on-change="true"/>
+    <bool-setting text="Color Star Ratings" value="colorStarsValue" apply-on-change="true"/>
+
+    <color-setting text="(&lt; 4★) Low Star Color" value="lowStarsColorValue" apply-on-change="true"/>
+    <color-setting text="(4★ - 6★) Mid Star Color" value="midStarsColorValue" apply-on-change="true"/>
+    <color-setting text="(6★ - 9★) High Star Color" value="highStarsColorValue" apply-on-change="true"/>
+    <color-setting text="(9★+) Expert Star Color" value="expertStarsColorValue" apply-on-change="true"/>
+
+    <slider-setting text="Font Size" value="fontSizeValue" integer-only="false" min="1.0" max="4.0" increment="0.1" show-buttons="true" apply-on-change="true"/>
 </vertical>
