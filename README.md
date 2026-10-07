@@ -37,7 +37,7 @@ You can customize what information is shown on the counter through the in-game c
 * **Show Stars:** Master toggle for displaying map star ratings.
 * **Show BeatLeader Stars:** Toggles the display of BeatLeader star ratings (`★ BL`).
 * **Show ScoreSaber Stars:** Toggles the display of ScoreSaber star ratings (`★ SS`).
-* **Color Star Ratings:** Configure dynamic color coding settings for each star ranges.
+* **Color Star Ratings:** Configure dynamic color coding settings for each star range.
 * **Font Size:** Adjusts the text scale of the counter display.
 
 ---
@@ -46,3 +46,4 @@ You can customize what information is shown on the counter through the in-game c
 
 * [Counters+](https://github.com/NuggoDEV/CountersPlus)
 * [SongDetailsCache](https://github.com/kinsi55/BeatSaber_SongDetailsCache)
+* [CustomJSONData](https://github.com/Aeroluna/CustomJSONData)
