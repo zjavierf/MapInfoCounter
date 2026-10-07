@@ -6,14 +6,9 @@ Built for 1.40.8, may work for other versions
 
 ## Preview
 
-<p align="center">
-  <b>Square Style</b><br>
-  <img width="576" alt="Square Style Preview" src="https://github.com/user-attachments/assets/c45ae43c-4ba7-4102-b754-95eeaaf7c423"/><br><br>
-  <b>Circle Style</b><br>
-  <img width="450" alt="Circle Style Preview" src="https://github.com/user-attachments/assets/04e891bd-f9f1-4f63-b3ad-00666bd3e31a"/><br><br>
-  <b>Rounded Square Style</b><br>
-  <img width="576" alt="Rounded Square Style Preview" src="https://github.com/user-attachments/assets/fa8dd0f1-7ea9-4306-8909-40d095738328"/>
-</p>
+| Square Style | Circle Style | Rounded Square Style |
+| :---: | :---: | :---: |
+| <img width="400" alt="Square Style Preview" src="https://github.com/user-attachments/assets/c45ae43c-4ba7-4102-b754-95eeaaf7c423"/> | <img width="400" alt="Circle Style Preview" src="https://github.com/user-attachments/assets/04e891bd-f9f1-4f63-b3ad-00666bd3e31a"/> | <img width="400" alt="Rounded Square Style Preview" src="https://github.com/user-attachments/assets/fa8dd0f1-7ea9-4306-8909-40d095738328"/> |
 
 ---
 
