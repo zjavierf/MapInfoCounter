@@ -4,16 +4,18 @@ A lightweight and clean **Counters+** custom counter for Beat Saber that display
 
 Built for 1.40.8, may work for other versions
 
-
 ## Preview
 
 <table>
   <tr>
-    <td align="center"><img width="576" height="256" alt="image" src="https://github.com/user-attachments/assets/c45ae43c-4ba7-4102-b754-95eeaaf7c423"/></td>
-</td>
-    <td align="center"><img width="358" height="193" alt="image" src="https://github.com/user-attachments/assets/04e891bd-f9f1-4f63-b3ad-00666bd3e31a"/></td>
-</td>
-    <td align="center"><img width="625" height="190" alt="image" src="https://github.com/user-attachments/assets/fa8dd0f1-7ea9-4306-8909-40d095738328" /></td>
+    <td align="center"><b>Square Style</b></td>
+    <td align="center"><b>Circle Style</b></td>
+    <td align="center"><b>Rounded Square Style</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="300" alt="Square Style Preview" src="https://github.com/user-attachments/assets/c45ae43c-4ba7-4102-b754-95eeaaf7c423"/></td>
+    <td align="center"><img width="300" alt="Circle Style Preview" src="https://github.com/user-attachments/assets/04e891bd-f9f1-4f63-b3ad-00666bd3e31a"/></td>
+    <td align="center"><img width="300" alt="Rounded Square Style Preview" src="https://github.com/user-attachments/assets/fa8dd0f1-7ea9-4306-8909-40d095738328"/></td>
   </tr>
 </table>
 
