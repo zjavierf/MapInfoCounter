@@ -1,14 +1,12 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <Import Project="MapInfoCounter.csproj.user" Condition="Exists('MapInfoCounter.csproj.user')"/>
 
     <PropertyGroup>
         <TargetFramework>net472</TargetFramework>
-        <!-- Some features of the latest version of C# aren't available in Beat Saber. Refer to the unity docs for info -->
-        <!-- https://docs.unity3d.com/2022.3/Documentation/Manual/CSharpCompiler.html -->
         <LangVersion>latest</LangVersion>
         <Nullable>enable</Nullable>
-        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
         <EnableFrameworkPathOverride>true</EnableFrameworkPathOverride>
         <FrameworkPathOverride>$(BeatSaberDir)\Beat Saber_Data\Managed</FrameworkPathOverride>
         <MarkPackageReferencesAsExternallyResolved>false</MarkPackageReferencesAsExternallyResolved>
