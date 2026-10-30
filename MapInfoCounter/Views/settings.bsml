@@ -1,8 +1,16 @@
-﻿<vertical spacing='1' horizontal-fit='PreferredSize' vertical-fit='PreferredSize' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://monkeymanboy.github.io/BSML-Docs/BSMLSchema.xsd">
+<vertical spacing='1' horizontal-fit='PreferredSize' vertical-fit='PreferredSize' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://monkeymanboy.github.io/BSML-Docs/BSMLSchema.xsd">
     <bool-setting text="Show Song Name" value="showSongNameValue" apply-on-change="true"/>
+    <bool-setting text="Bold Text" value="boldTextValue" apply-on-change="true"/>
+    <bool-setting text="Italic Text" value="italicTextValue" apply-on-change="true"/>
+    <bool-setting text="Compact Mode (One Line)" value="compactModeValue" apply-on-change="true"/>
     <bool-setting text="Show Cover Art" value="showCoverArtValue" apply-on-change="true"/>
     <list-setting text="Cover Art Style" value="coverArtStyleValue" options="coverArtStyleValues" apply-on-change="true"/>
     <bool-setting text="Show Stars" value="showStarsValue" apply-on-change="true"/>
+    <bool-setting text="Show Modifier Indicator" value="showModifierIndicatorValue" apply-on-change="true"/>
+
+    <bool-setting text="Enable Transitions" value="enableTransitionsValue" apply-on-change="true"/>
+    <list-setting text="Transition Style" value="transitionStyleValue" options="transitionStyleValues" apply-on-change="true"/>
+
     <bool-setting text="Show BeatLeader Stars" value="showBeatLeaderStarsValue" apply-on-change="true"/>
     <bool-setting text="Show ScoreSaber Stars" value="showScoresaberStarsValue" apply-on-change="true"/>
     <bool-setting text="Color Star Ratings" value="colorStarsValue" apply-on-change="true"/>
