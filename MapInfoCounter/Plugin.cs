@@ -1,4 +1,4 @@
-﻿using IPA;
+using IPA;
 using IPA.Loader;
 using IPA.Config;
 using IPA.Config.Stores;
@@ -10,18 +10,18 @@ namespace MapInfoCounter;
 [Plugin(RuntimeOptions.SingleStartInit)]
 public class Plugin
 {
-    internal static Plugin Instance { get; private set; } = null!;
-    internal static IpaLogger Log { get; private set; } = null!;
+    internal static Plugin instance { get; private set; } = null!;
+    internal static IpaLogger log { get; private set; } = null!;
     
     [Init]
     public void Init(IpaLogger ipaLogger, PluginMetadata pluginMetadata, Config conf)
     {
-        Instance = this;
-        Log = ipaLogger;
+        instance = this;
+        log = ipaLogger;
         
-        PluginConfig.Instance = conf.Generated<PluginConfig>();
+        PluginConfig.instance = conf.Generated<PluginConfig>();
         
-        Log.Info($"{pluginMetadata.Name} {pluginMetadata.HVersion} initialized.");
+        log.Info($"{pluginMetadata.Name} {pluginMetadata.HVersion} initialized.");
     }
 
     [OnStart]
